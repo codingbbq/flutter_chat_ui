@@ -89,13 +89,13 @@ List<Message> messages = [
     time: "5:30 PM",
     text: "Hey, How\'s it going? What did you do today?",
     isLiked: false,
-    unread: true,
+    unread: false,
   ),
 
   Message(
     sender: currentUser,
     time: "3:30 PM",
-    text: "Hey, How\'s it going? What did you do today?",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque in ipsum id orci porta dapibus.",
     isLiked: false,
     unread: true,
   ),
@@ -103,9 +103,9 @@ List<Message> messages = [
   Message(
     sender: greg,
     time: "6:30 AM",
-    text: "Hey, How\'s it going? What did you do today?",
+    text: "Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem.",
     isLiked: false,
-    unread: true,
+    unread: false,
   ),
 
 
@@ -123,7 +123,7 @@ List<Message> messages = [
     time: "5:30 PM",
     text: "Hey, How\'s it going? What did you do today?",
     isLiked: false,
-    unread: true,
+    unread: false,
   ),
 
 
@@ -132,7 +132,7 @@ List<Message> messages = [
     time: "5:30 PM",
     text: "Hey, How\'s it going? What did you do today?",
     isLiked: false,
-    unread: true,
+    unread: false,
   ),
 
   Message(
