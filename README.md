@@ -4,9 +4,9 @@ A flutter CHAT UI - Follow along to tutorial on [youtube](https://www.youtube.co
 
 ## User Screen
 
-![User Screen](flutter_chat_ui_user_screen.png?raw=true "User Screen"){:height="50%" width="50%"}
+![User Screen](flutter_chat_ui_user_screen.png?raw=true "User Screen")
 
 
 ## Message Screen
 
-![Message Screen](flutter_chat_ui_message_screen.png?raw=true "Message Screen"){:height="50%" width="50%"}
+![Message Screen](flutter_chat_ui_message_screen.png?raw=true "Message Screen")
