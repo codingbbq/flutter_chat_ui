@@ -96,7 +96,7 @@ List<Message> messages = [
     sender: currentUser,
     time: "3:30 PM",
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque in ipsum id orci porta dapibus.",
-    isLiked: false,
+    isLiked: true,
     unread: true,
   ),
 
@@ -104,7 +104,7 @@ List<Message> messages = [
     sender: greg,
     time: "6:30 AM",
     text: "Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem.",
-    isLiked: false,
+    isLiked: true,
     unread: false,
   ),
 
@@ -139,7 +139,7 @@ List<Message> messages = [
     sender: james,
     time: "5:30 PM",
     text: "Hey, How\'s it going? What did you do today?",
-    isLiked: false,
+    isLiked: true,
     unread: true,
   ),
 ];
